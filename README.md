@@ -65,6 +65,12 @@ EJEMPLO DE TABLAS
 
 EJEMPLO INSERTAR IMAGEN
 
+<img src="https://github.com/user-attachments/assets/5f781c53-4af0-481a-9a15-2a6c5ff8ac32" width=200>
 
+EJEMPLO ENLACE CON ANCHOR
 
+[Readme](https://es.lipsum.com)
 
+EJEMPLO DE ENLACE AUTOMATICO
+
+<https://es.lipsum.com>
