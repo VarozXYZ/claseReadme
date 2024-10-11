@@ -74,3 +74,20 @@ EJEMPLO ENLACE CON ANCHOR
 EJEMPLO DE ENLACE AUTOMATICO
 
 <https://es.lipsum.com>
+
+EJEMPLO DE EMOJIS 
+
+:+1:
+
+EJEMPLO BLOQUE CODIGO
+
+```bash
+
+npm install
+```
+```javascript
+function decirHola() {
+console.log("hola);
+}
+```
+
